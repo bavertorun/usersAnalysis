@@ -1,0 +1,32 @@
+@media screen and (max-width: 573px) {
+    .title>b {
+        font-size: 35px !important;
+    }
+
+    .title>i {
+        font-size: 25px !important;
+    }
+
+}
+
+@media screen and (max-width: 443px) {
+    .title>b {
+        font-size: 30px !important;
+    }
+
+    .title>i {
+        font-size: 20px !important;
+    }
+
+}
+
+@media screen and (max-width: 368px) {
+    .title>b {
+        font-size: 25px !important;
+    }
+
+    .title>i {
+        font-size: 15px !important;
+    }
+
+}
